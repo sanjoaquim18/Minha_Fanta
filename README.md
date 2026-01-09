@@ -7,7 +7,7 @@ O projeto foi desenvolvido **apenas para fins educacionais e de estudo**, sem v�
 
 ## 📸 Preview
 
-Assets/ProjetoFérias.jpg
+![Uma captura de tela da landing page da Fanta](https://github.com/sanjoaquim18/Minha_Fanta/blob/main/Assets/ProjetoF%C3%A9rias.jpg)
 
 ## 🚀 Demonstração ao Vivo
 
@@ -50,13 +50,6 @@ Siga os passos abaixo para rodar o projeto na sua máquina:
 
    * Clique duas vezes no arquivo, ou
    * Utilize a extensão *Live Server* no VS Code
-
-## 🌐 Publicação com GitHub Pages (Opcional)
-
-1. Vá até **Settings** do repositório
-2. Clique em **Pages**
-3. Em *Source*, selecione `main` e `/root`
-4. Salve e aguarde a geração do link
 
 ## ⚖️ Licença
 
