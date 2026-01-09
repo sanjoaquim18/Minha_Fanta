@@ -26,8 +26,11 @@ O projeto foi desenvolvido **apenas para fins educacionais e de estudo**, sem v�
 ## 🛠️ Tecnologias Utilizadas
 
 🔹 **HTML5** – Estrutura semântica da página
+
 🔹 **CSS3** – Estilização, layout (Flexbox/Grid) e animações
+
 🔹 **JavaScript (Vanilla)** – Interatividade e manipulação do DOM
+
 🔹 **Git & GitHub** – Versionamento e hospedagem do projeto
 
 ## 🏃‍♂️ Como Executar o Projeto Localmente
