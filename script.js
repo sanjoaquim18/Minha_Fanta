@@ -1,5 +1,9 @@
 /* Criação de uma timeline do GSAP com animações sincronizadas com ScrollTrigger */
 
+let mm = gsap.matchMedia();
+
+mm.add("(min-width: 769px)", () => {
+
 var tl = gsap.timeline({
     scrollTrigger: {
         trigger: '.two',
@@ -84,6 +88,8 @@ tl2.from(
     },
     'ca'
 );
+
+});
 
 tl2.from(
     '.lemon2',

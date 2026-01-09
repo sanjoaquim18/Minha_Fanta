@@ -214,3 +214,54 @@ width: 80%;
     width: 25vw;
     transform: translate(-50%, 0%);
 }
+
+/* Responsividade para Mobile */
+@media (max-width: 768px) {
+    .nav-menu {
+        display: none; /* Oculta menu no mobile por enquanto */
+    }
+    
+    .hero h1 {
+        font-size: 15vw;
+    }
+
+    .two {
+        flex-direction: column;
+        height: auto;
+        padding: 50px 0;
+    }
+
+    .left-side, .right-side {
+        width: 100%;
+        height: auto;
+        padding: 20px;
+        text-align: center;
+    }
+    
+    .left-side svg {
+        margin-top: 0;
+        width: 50%;
+        transform: none;
+    }
+
+    .right-side h2 {
+        font-size: 8vw;
+    }
+
+    .right-side p {
+        font-size: 4vw;
+        width: 100%;
+    }
+
+    .three {
+        flex-direction: column;
+        height: auto;
+        padding: 50px 0;
+    }
+
+    .card {
+        width: 90%;
+        height: 60vh;
+        margin-bottom: 30px;
+    }
+}
