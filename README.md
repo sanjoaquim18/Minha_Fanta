@@ -2,7 +2,7 @@
 
 Uma **landing page responsiva e animada**, inspirada na identidade vibrante da **Fanta Laranja**, criada com o objetivo de praticar e demonstrar habilidades em **HTML, CSS e JavaScript**. 
 O projeto explora cores marcantes, animações suaves e um design moderno para oferecer uma experiência visual dinâmica.
-O projeto foi desenvolvido **apenas para fins educacionais e de estudo**, sem vínculo oficial com a marca. Foi um projeto de site feito como nas férias com o objetivo de aperfeiçoamento pessoal.
+O projeto foi desenvolvido **apenas para fins educacionais e de estudo**, sem vínculo oficial com a marca. Foi um projeto de site feito nas férias, com o objetivo de aperfeiçoamento pessoal.
 
 
 ## 📸 Preview
