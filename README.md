@@ -58,7 +58,7 @@ Siga os passos abaixo para rodar o projeto na sua máquina:
 
 Este projeto está sob a licença **MIT**.
 
-Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Veja o arquivo [LICENSE](https://github.com/sanjoaquim18/Minha_Fanta/blob/main/LICENSE) para mais detalhes.
 
 ## 👨‍💻 Autor
 
