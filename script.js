@@ -106,14 +106,6 @@ tl2.from(
 );
 
 tl2.to(
-    '#pepsi',
-    {
-        width: '89%',
-    },
-    'ca'
-);
-
-tl2.to(
     '#Laranja-cortada',
     {
         width: '18%',
