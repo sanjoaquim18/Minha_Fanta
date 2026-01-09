@@ -7,7 +7,7 @@ O projeto foi desenvolvido **apenas para fins educacionais e de estudo**, sem v�
 
 ## 📸 Preview
 
-(./Assets/ProjetoFérias.jpg)
+./Assets/ProjetoFérias.jpg)
 
 ## 🚀 Demonstração ao Vivo
 
